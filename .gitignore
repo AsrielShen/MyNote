@@ -1,6 +1,5 @@
 # 忽略 Obsidian/VScode 之类的缓存文件
 
-.obsidian/workspace
-.obsidian/cache
+.obsidian
 .vscode/
 .idea/
